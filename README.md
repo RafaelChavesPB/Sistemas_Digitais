@@ -1,4 +1,4 @@
-# Sistemas_Digitais
+# Monitoria de sistemas digitais
 Repositorio com as implementações utilizadas na disciplina de Sistemas Digitais no periodo 2019.2. 
 
 
